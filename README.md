@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Ibrahim Onuche Umar</h1>
-<p>I am a Developer Relations Engineer. At the moment, I work primarily with front-end smart contract integration. I like teaching, building communities, using open source, and creating decentralized applications. As a result of my enthusiasm for blockchain technology and the limitless opportunities it presents for emerging economies, I started writing articles to introduce readers to this field. Through education and the use of various content channels, I hope to increase developers' understanding and adoption of blockchain technology. I'm learning how to play chess, use smart-contract algorithms, and crack the Rubix cube.</p>
+<p>I am a Junior; Software & Developer Relations Engineer. </p>
 
 - 📝 I curate monthly news articles about developer relations for emerging economies. [The devocado's Newsletter](https://thedevocadonewsletter.substack.com/)
 
