@@ -1,5 +1,13 @@
 <h1>Hi 👋, I'm Ibrahim Onuche Umar</h1>
-<p>I am a Junior; Software & Developer Relations Engineer. </p>
+<p>I am a junior; software & developer relations engineer with a keen interest in blockchain technology and its potential to drive growth and development in developing countries.
+
+ I am actively creating beginner-friendly articles to introduce readers to the field, aiming to educate and inspire new developers to explore the opportunities that blockchain technology presents.
+
+As a chainlink Community Advocate, I focus on onboarding new and experienced developers into the blockchain space and educating them on using chainlink's products to integrate into their decentralized applications (dApps). 
+
+My  primary aim is to help developers succeed in the blockchain space through education, community enablement, and technical support.
+
+</p>
 
 - 📝 I curate monthly news articles about developer relations for emerging economies. [The devocado's Newsletter](https://thedevocadonewsletter.substack.com/)
 
