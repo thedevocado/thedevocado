@@ -5,7 +5,7 @@
 
 - 🤝 On the podcast, I discuss with experts in the industry about content creation, community building, and developer relations. [The devocado's Radio](https://anchor.fm/thedevocado)
 
-- 📫 How to reach me **thedevocado@gmail.com**
+- 📫 How to reach me **onucheumar@yahoo.com**
 
 - ⚡ Fun fact **I am a lowkey wanabe Rapper**
 
